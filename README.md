@@ -1,5 +1,5 @@
 # vertx
-Basic Vertx backend with cors.
+Basic Vertx Rest Services with cors.
 
 This is a Vert.x web server with a simple rest to verify user. 
 
